@@ -26,6 +26,3 @@ An end-to-end e-commerce platform that allows users to browse products, add them
 - JWT for authentication
 - RESTful API integration
 - Razorpay payment integration
-
-## 📂 Project Structure
-
