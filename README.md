@@ -42,16 +42,25 @@ cd ecommerce
 #### Frontend:
 
 ```bash
-cd client
+cd frontend
 npm install
 ```
 
 #### Backend:
 
 ```bash
-cd server
+cd backend
 npm install
 ```
+
+
+#### Admin:
+
+```bash
+cd admin
+npm install
+```
+
 
 ---
 
@@ -72,15 +81,22 @@ JWT_SECRET=your_secret_key
 #### Backend:
 
 ```bash
-cd server
+cd backend
 npm start
 ```
 
 #### Frontend:
 
 ```bash
-cd client
+cd frontend
 npm start
+```
+
+#### Admin:
+
+```bash
+cd admin
+node server.js
 ```
 
 ---
