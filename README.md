@@ -22,7 +22,7 @@ A complete e-commerce platform built with the **MERN stack** (MongoDB, Express.j
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT
-- **Deployment**: Vercel / Netlify (frontend), Render / Railway (backend)
+- **Deployment**: Vercel
 
 ---
 
